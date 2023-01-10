@@ -1,0 +1,51 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+table {
+    width: 600px;
+    border: 1px solid black;
+}
+
+table th {
+    padding: 2px;
+    border: 1px solid black;
+}
+
+table td {
+    padding: 2px;
+    border: 1px solid black;
+}
+
+input {
+    width: 250px;
+    padding: 3px;
+}
+
+input:focus {
+    outline: none;
+}
+
+input[type='submit'] {
+    
+    color: white;
+    cursor: pointer;
+}
+
+.eliminado {
+    background: red;
+    color: white;
+}
+
+.isertado {
+    background: greenyellow;
+    color: white;
+}
+h2{
+    text-align: center;
+    color: aqua;
+}
+.tabla{
+    margin: 0px 150px;
+}
